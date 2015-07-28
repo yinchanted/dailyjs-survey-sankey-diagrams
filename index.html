@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Daily JS survey results visualised with Sankey diagrams</title>
+    <title>TechDay topic interests results</title>
 
     <!-- Loading Bootstrap -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 <body>
 
 <div class="container">
-    <h1>Daily JS survey results</h1>
+    <h1>TechDay Topic Interests Results</h1>
 
     <p class="lead">visualised with Sankey diagrams</p>
     <p>This visualization shows how answers from one question map to another question. It allows to find interesting correlations. To get started check out the "examples" section bellow.</p>
@@ -52,16 +52,16 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xs-6"><p>Use survey results from year:</p></div>
+            <div class="col-xs-6"><p>Use survey results from:</p></div>
             <div class="col-xs-6">
                 <label class="radio">
-                    <input type="radio" name="surveyYear" value="2014" data-toggle="radio"> 2014
+                    <input type="radio" name="surveyYear" value="2014" data-toggle="radio"> Pre Registration
                 </label>
                 <label class="radio">
-                    <input type="radio" name="surveyYear" value="2013" data-toggle="radio"> 2013
+                    <input type="radio" name="surveyYear" value="2013" data-toggle="radio"> Morning Attendance
                 </label>
                 <label class="radio">
-                    <input type="radio" name="surveyYear" value="2012" data-toggle="radio"> 2012
+                    <input type="radio" name="surveyYear" value="2012" data-toggle="radio"> Afternoon Attendance
                 </label>
             </div>
         </div>
@@ -69,7 +69,7 @@
 
         <h3>Examples</h3>
         <ul>
-            <li><a href="#2014/3/9/10/true">Do people with more experience write more tests?</a></li>
+            <li><a href="#2014/3/9/10/true">?</a></li>
             <li><a href="#2014/24/5/25/true">Do people with C#/.NET background prefer TypeScript over CoffeeScript?</a>
             </li>
             <li><a href="#2014/3/17/80/true">Is Angular more attractive than Backbone for new JavaScript
@@ -86,14 +86,11 @@
             href="http://bost.ocks.org/mike/sankey/">Sankey plugin</a>, <a href="http://getbootstrap.com/">Bootstrap</a>
         and <a href="http://designmodo.github.io/Flat-UI/">Flat-UI</a>.</p>
 
-    <p>Data comes from JavaScript Developer Survey by <a href="http://dailyjs.com/">DailyJS</a> (<a
-            href="http://dailyjs.com/2012/12/24/javascript-survey-results/">2012</a>, <a
-            href="http://dailyjs.com/2013/12/12/javascript-survey-results/">2013</a>, <a
-            href="http://dailyjs.com/2014/12/16/javascript-survey-results/">2014</a>). Single choice questions are
+    <p>Data comes from Sharepoint VTC TechDay Pre-Registration Form by <a href="http://dailyjs.com/">Yin Xu</a> (<a
+            href="http://dailyjs.com/2012/12/24/javascript-survey-results/">Pre Registration</a>, <a
+            href="http://dailyjs.com/2013/12/12/javascript-survey-results/">Morning Attendance</a>, <a
+            href="http://dailyjs.com/2014/12/16/javascript-survey-results/">Afternoon Attendance</a>). Single choice questions are
         marked with <code>[.]</code> and multiple choice questions with <code>[*]</code>.</p>
-
-    <p>If you found a bug or have a feature request, please create an issue on <a href="https://github.com/kdzwinel/dailyjs-survey-sankey-diagrams/issues">GitHub</a>
-        or contact me directly (kdzwinel at gmail, @kdzwinel).</p>
 
     <!-- Github button -->
     <iframe src="http://ghbtns.com/github-btn.html?user=kdzwinel&repo=dailyjs-survey-sankey-diagrams&type=watch&count=true"
@@ -110,10 +107,11 @@
          data-show-faces="false" data-share="true"></div>
     <div id="fb-root"></div>
 
-    <!-- Github ribbon -->
+    <!-- Github ribbon
     <a href="https://github.com/kdzwinel/dailyjs-survey-sankey-diagrams"><img style="position: absolute; top: 0; right: 0; border: 0;"
                                                 src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"
                                                 alt="Fork me on GitHub"></a>
+     -->
 </div>
 
 <script src="js/libs/jquery-1.8.3.min.js"></script>

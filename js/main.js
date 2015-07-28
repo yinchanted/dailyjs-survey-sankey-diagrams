@@ -4,12 +4,12 @@
         year: 2014,
         question1: 3,
         question2: 9,
-        minLinkValue: 10,
+        minLinkValue: 0,
         splitMultipleAnswers: true
     };
     var dataFiles = {
         2012: {
-            location: './data/JavaScript%20Developer%20Survey%202012.csv',
+            location: './data/JavaScript%20Developer%20Survey%202014.csv',
             settings: {
                 answerDelimiter: ', '
             }
@@ -21,7 +21,7 @@
             }
         },
         2014: {
-            location: './data/JavaScript%20Developer%20Survey%202014.csv',
+            location: './data/stat_topics/techday.csv',
             settings: {
                 answerDelimiter: ', '
             }
