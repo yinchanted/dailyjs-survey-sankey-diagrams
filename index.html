@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>TechDay topic interests results</title>
+    <title>2015 VTC TechDay Stats</title>
 
     <!-- Loading Bootstrap -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 <body>
 
 <div class="container">
-    <h1>TechDay Topic Interests Results</h1>
+    <h1>2015 VTC TechDay Stats</h1>
 
     <p class="lead">visualised with Sankey diagrams</p>
     <p>This visualization shows how answers from one question map to another question. It allows to find interesting correlations. To get started check out the "examples" section bellow.</p>
@@ -50,33 +50,31 @@
                     <input type="checkbox" checked id="splitMultipleAnswers" data-toggle="checkbox">
                 </label>
             </div>
-        </div>
+        </div> 
         <div class="row">
             <div class="col-xs-6"><p>Use survey results from:</p></div>
             <div class="col-xs-6">
                 <label class="radio">
-                    <input type="radio" name="surveyYear" value="2014" data-toggle="radio"> Pre Registration
+                    <input type="radio" name="surveyYear" value="2014" data-toggle="radio"> 2015 VTC TechDay Stats
                 </label>
+                <!--
                 <label class="radio">
                     <input type="radio" name="surveyYear" value="2013" data-toggle="radio"> Morning Attendance
                 </label>
                 <label class="radio">
                     <input type="radio" name="surveyYear" value="2012" data-toggle="radio"> Afternoon Attendance
-                </label>
+                </label> -->
             </div>
         </div>
 
 
         <h3>Examples</h3>
         <ul>
-            <li><a href="#2014/3/9/10/true">?</a></li>
-            <li><a href="#2014/24/5/25/true">Do people with C#/.NET background prefer TypeScript over CoffeeScript?</a>
-            </li>
-            <li><a href="#2014/3/17/80/true">Is Angular more attractive than Backbone for new JavaScript
-                developers?</a></li>
-            <li><a href="#2014/2/2/5/true">How many people that use JavaScript at work uses it also for the side
-                projects?</a></li>
-            <li><a href="#2014/24/9/40/true">Do people that use Ruby tend to write more JavaScript tests?</a></li>
+            <li><a href="#2014/10/16/0/true">In general, what sessions have people attended?</a></li>
+            <li><a href="#2014/10/15/0/true">What sessions have "IT" attended?</a></li>
+            <li><a href="#2014/10/12/0/true">What sessions have "Staff" attended?</a></li>
+            <li><a href="#2014/5/10/0/true">Because of the parallel sessions, are people able to attend the sessions they wanted to?</a></li>
+            <li><a href="#2014/1/16/0/true">I just want to see results for one question. ie, what are people's first choices?</a></li>
         </ul>
     </div>
 
@@ -86,23 +84,21 @@
             href="http://bost.ocks.org/mike/sankey/">Sankey plugin</a>, <a href="http://getbootstrap.com/">Bootstrap</a>
         and <a href="http://designmodo.github.io/Flat-UI/">Flat-UI</a>.</p>
 
-    <p>Data comes from Sharepoint VTC TechDay Pre-Registration Form by <a href="http://dailyjs.com/">Yin Xu</a> (<a
-            href="http://dailyjs.com/2012/12/24/javascript-survey-results/">Pre Registration</a>, <a
-            href="http://dailyjs.com/2013/12/12/javascript-survey-results/">Morning Attendance</a>, <a
-            href="http://dailyjs.com/2014/12/16/javascript-survey-results/">Afternoon Attendance</a>). Single choice questions are
+    <p>Data comes from VTC TechDay Pre-Registration results as well as attendance collected on July 28th by <a href="http://dailyjs.com/">Yin Xu</a> (<a
+            href="http://dailyjs.com/2014/12/16/javascript-survey-results/">2015 VTC TechDay Stats</a>). Single choice questions are
         marked with <code>[.]</code> and multiple choice questions with <code>[*]</code>.</p>
 
-    <!-- Github button -->
+    <!-- Github button
     <iframe src="http://ghbtns.com/github-btn.html?user=kdzwinel&repo=dailyjs-survey-sankey-diagrams&type=watch&count=true"
             allowtransparency="true" frameborder="0" scrolling="0" width="100" height="20"></iframe>
 
-    <!-- Twitter button -->
+    <!-- Twitter button 
     <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://kdzwinel.github.io/dailyjs-survey-sankey-diagrams/" data-via="kdzwinel">Tweet</a>
 
-    <!-- G+ button -->
+    <!-- G+ button
     <div class="g-plusone" data-size="medium" data-href="http://kdzwinel.github.io/dailyjs-survey-sankey-diagrams/"></div>
 
-    <!-- FB button -->
+    <!-- FB button
     <div class="fb-like" data-href="http://kdzwinel.github.io/dailyjs-survey-sankey-diagrams/" data-layout="button_count" data-action="like"
          data-show-faces="false" data-share="true"></div>
     <div id="fb-root"></div>
