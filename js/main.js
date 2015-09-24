@@ -21,7 +21,7 @@
             }
         },
         2014: {
-            location: './data/stat_topics/techday.csv',
+            location: './data/techday.csv',
             settings: {
                 answerDelimiter: ', '
             }
