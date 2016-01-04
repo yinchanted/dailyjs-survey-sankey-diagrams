@@ -3,7 +3,7 @@
     var defaultState = {
         year: 2014,
         question1: 6,
-        question2: 13,
+        question2: 12,
         minLinkValue: 0,
         splitMultipleAnswers: true
     };
@@ -21,7 +21,7 @@
             }
         },
         2014: {
-            location: './data/techday.csv',
+            location: './data/techday_gh.csv',
             settings: {
                 answerDelimiter: ', '
             }

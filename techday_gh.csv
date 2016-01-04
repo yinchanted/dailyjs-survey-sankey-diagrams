@@ -1,0 +1,693 @@
+Timestamp,[.] Pregistration Choice 1,[.] Pregistration Choice 2,[.] Pregistration Choice 3,[.] Pregistration Choice 4,[*] Pregistration All Choice,[.] Choice 1 Attendance,[.] Choice 2 Attendance,[.] Choice 3 Attendance,[.] Choice 4 Attendance,[*] Attendance All Choices,[.] Participant Role,[.] Belonging Planning Unit,[.] Belonging Department,[.] Belonging Division,[.] Just to see the column alone
+7/14/15 23:44,Business Intelligence -- Pieter Camps,My Standards (Webex) -- Nicolas Ernotte,External Threat Intelligence --Byron Thatcher,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Business Intelligence -- Pieter Camps,,,,,,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+7/16/15 20:37,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+7/17/15 16:58,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Internal Audit -- Bradly Vancamp,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,Internal Audit -- Bradly Vancamp,,Business Intelligence -- Pieter Camps,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+7/17/15 16:59,Innovation on Data Centers -- David Nalley (External),Containers -- Red Hat (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),,,,,,Manager,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+7/17/15 17:00,Block Chain -- Deepak Janardhanan,Distributed Ledgers -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Block Chain -- Deepak Janardhanan,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+7/17/15 17:01,Open Stack -- Michael Solberg (Red Hat),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Distributed Ledgers -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+7/17/15 17:01,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+7/17/15 17:03,New Payment Platform -- Kumar Venkataramiah,Block Chain -- Deepak Janardhanan,Internal Audit -- Bradly Vancamp,Distributed Ledgers -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,Business Intelligence -- Pieter Camps,,Internal Audit -- Bradly Vancamp,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+7/17/15 17:03,Business Intelligence -- Pieter Camps,My Standards (Webex) -- Nicolas Ernotte,New Payment Platform -- Kumar Venkataramiah,Distributed Ledgers -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Business Intelligence -- Pieter Camps,New Payment Platform -- Kumar Venkataramiah,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Staff,Enterprise Application Solutions,"Infrastructure, Architecture & Analysis",IT,TechDay
+7/17/15 17:04,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+7/17/15 17:08,Distributed Ledgers -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,CISO,Security Risk Management,IT,TechDay
+7/17/15 17:09,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,Configuration Management,IT,TechDay
+7/17/15 17:09,Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,New Payment Platform -- Kumar Venkataramiah,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging and Application Delivery,Messaging,Marketing,TechDay
+7/17/15 17:10,Distributed Ledgers -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,COTS Problem Management,IT,TechDay
+7/17/15 17:11,New Payment Platform -- Kumar Venkataramiah,Distributed Ledgers -- Jerry Kickenson,Combinatorial Testing -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,New Payment Platform -- Kumar Venkataramiah,Innovation on Data Centers -- David Nalley (External),New Payment Platform -- Kumar Venkataramiah,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,SWIFTNet Link,IT,TechDay
+7/17/15 17:12,Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Combinatorial Testing -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+7/17/15 17:12,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,New Payment Platform -- Kumar Venkataramiah,External Threat Intelligence --Byron Thatcher,Distributed Ledgers -- Jerry Kickenson,,,,,,Manager,Internal Audit,Americas Audit,Internal Audit,TechDay
+7/17/15 17:12,Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Business Intelligence -- Pieter Camps,Combinatorial Testing -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,DA & FIN Delivery,SCP - UNN,IT,TechDay
+7/17/15 17:13,Containers -- Red Hat (External),Open Stack -- Michael Solberg (Red Hat),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Innovation on Data Centers -- David Nalley (External),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+7/17/15 17:17,Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Block Chain -- Deepak Janardhanan,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+7/17/15 17:21,Innovation on Data Centers -- David Nalley (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Distributed Ledgers -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,CISO,Security Risk Management,IT,TechDay
+7/17/15 17:21,Block Chain -- Deepak Janardhanan,New Payment Platform -- Kumar Venkataramiah,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+7/17/15 17:23,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Business Intelligence -- Pieter Camps,External Threat Intelligence --Byron Thatcher,Innovation on Data Centers -- David Nalley (External),,,,,,Manager,Messaging Solutions,PKI Infrastructure,IT,TechDay
+7/17/15 17:27,Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Open Stack -- Michael Solberg (Red Hat),New Payment Platform -- Kumar Venkataramiah,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+7/17/15 17:37,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,New Payment Platform -- Kumar Venkataramiah,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,New Payment Platform -- Kumar Venkataramiah,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+7/17/15 17:37,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Open Stack -- Michael Solberg (Red Hat),External Threat Intelligence --Byron Thatcher,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,,,Innovation on Data Centers -- David Nalley (External),Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+7/17/15 17:38,Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),L1 Manager,Messaging Solutions,Messaging Solutions,IT,TechDay
+7/17/15 17:50,Innovation on Data Centers -- David Nalley (External),Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),External Threat Intelligence --Byron Thatcher,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+7/17/15 18:15,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+7/17/15 18:18,Combinatorial Testing -- Jerry Kickenson,Containers -- Red Hat (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Combinatorial Testing -- Jerry Kickenson,,Distributed Ledgers -- Jerry Kickenson,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+7/17/15 18:28,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Containers -- Red Hat (External),Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,COTS Baselines,IT,TechDay
+7/17/15 18:31,Innovation on Data Centers -- David Nalley (External),Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+7/17/15 18:32,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,Messaging Integration,IT,TechDay
+7/17/15 19:17,Distributed Ledgers -- Jerry Kickenson,Combinatorial Testing -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,Messaging Core,IT,TechDay
+7/17/15 19:28,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Containers -- Red Hat (External),Open Stack -- Michael Solberg (Red Hat),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Distributed Ledgers -- Jerry Kickenson,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,Operational Support Systems,IT,TechDay
+7/17/15 19:29,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+7/17/15 19:51,Distributed Ledgers -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,Distributed Ledgers -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Staff,Technology Management,Infrastructure & Architecture,IT,TechDay
+7/17/15 19:53,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Business Intelligence -- Pieter Camps,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+7/17/15 20:14,Combinatorial Testing -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Business Intelligence -- Pieter Camps,Combinatorial Testing -- Jerry Kickenson,Business Intelligence -- Pieter Camps,,,,Business Intelligence -- Pieter Camps,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+7/17/15 20:14,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,New Payment Platform -- Kumar Venkataramiah,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Business Intelligence -- Pieter Camps,,,,Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+7/17/15 20:34,Innovation on Data Centers -- David Nalley (External),Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Manager,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+7/17/15 20:44,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,Block Chain -- Deepak Janardhanan,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,Operational Support Systems,IT,TechDay
+7/17/15 20:49,My Standards (Webex) -- Nicolas Ernotte,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,My Standards (Webex) -- Nicolas Ernotte,My Standards (Webex) -- Nicolas Ernotte,Distributed Ledgers -- Jerry Kickenson,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+7/17/15 20:55,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Containers -- Red Hat (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Manager,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+7/17/15 20:55,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Combinatorial Testing -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+7/17/15 21:13,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,External Threat Intelligence --Byron Thatcher,Internal Audit -- Bradly Vancamp,Business Intelligence -- Pieter Camps,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,Internal Audit -- Bradly Vancamp,,Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+7/17/15 21:20,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Development,IT,TechDay
+7/17/15 21:50,Containers -- Red Hat (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Containers -- Red Hat (External),,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Staff,Enterprise Operations,System Design,Operations,TechDay
+7/17/15 22:16,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,My Standards (Webex) -- Nicolas Ernotte,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+7/17/15 23:20,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+7/18/15 4:42,New Payment Platform -- Kumar Venkataramiah,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),New Payment Platform -- Kumar Venkataramiah,,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+7/20/15 1:35,Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+7/20/15 14:03,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Program Management,Assurance Planning & Communications,IT,TechDay
+7/20/15 15:08,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Contractor,Technology Management,Operational Support Systems,IT,TechDay
+7/20/15 15:40,Block Chain -- Deepak Janardhanan,New Payment Platform -- Kumar Venkataramiah,Business Intelligence -- Pieter Camps,External Threat Intelligence --Byron Thatcher,Block Chain -- Deepak Janardhanan,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,,Business Intelligence -- Pieter Camps,L1 Manager,PMO,PMO,IT,TechDay
+7/20/15 16:17,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,New Payment Platform -- Kumar Venkataramiah,Containers -- Red Hat (External),Business Intelligence -- Pieter Camps,,,,,,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+7/20/15 16:44,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+7/20/15 17:17,My Standards (Webex) -- Nicolas Ernotte,My Standards (Webex) -- Nicolas Ernotte,My Standards (Webex) -- Nicolas Ernotte,My Standards (Webex) -- Nicolas Ernotte,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Enterprise Application Solutions,Standards Technology ,IT,TechDay
+7/20/15 18:04,Distributed Ledgers -- Jerry Kickenson,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,External Threat Intelligence --Byron Thatcher,Distributed Ledgers -- Jerry Kickenson,Business Intelligence -- Pieter Camps,New Payment Platform -- Kumar Venkataramiah,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+7/20/15 20:20,External Threat Intelligence --Byron Thatcher,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,New Payment Platform -- Kumar Venkataramiah,External Threat Intelligence --Byron Thatcher,Business Intelligence -- Pieter Camps,,,,Business Intelligence -- Pieter Camps,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+7/20/15 20:31,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Innovation on Data Centers -- David Nalley (External),New Payment Platform -- Kumar Venkataramiah,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+7/20/15 20:55,External Threat Intelligence --Byron Thatcher,Innovation on Data Centers -- David Nalley (External),Combinatorial Testing -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,External Threat Intelligence --Byron Thatcher,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,,,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+7/20/15 21:14,Innovation on Data Centers -- David Nalley (External),Open Stack -- Michael Solberg (Red Hat),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+7/20/15 21:40,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+7/20/15 22:23,My Standards (Webex) -- Nicolas Ernotte,Distributed Ledgers -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Open Stack -- Michael Solberg (Red Hat),My Standards (Webex) -- Nicolas Ernotte,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Security Infrastructure Development,IT,TechDay
+7/20/15 22:39,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Internal Audit -- Bradly Vancamp,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+7/20/15 22:47,New Payment Platform -- Kumar Venkataramiah,Business Intelligence -- Pieter Camps,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),New Payment Platform -- Kumar Venkataramiah,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+7/20/15 22:55,Block Chain -- Deepak Janardhanan,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,My Standards (Webex) -- Nicolas Ernotte,Block Chain -- Deepak Janardhanan,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,,,Business Intelligence -- Pieter Camps,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+7/20/15 23:24,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,External Threat Intelligence --Byron Thatcher,Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+7/20/15 23:50,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+7/21/15 1:31,Business Intelligence -- Pieter Camps,External Threat Intelligence --Byron Thatcher,Distributed Ledgers -- Jerry Kickenson,My Standards (Webex) -- Nicolas Ernotte,Business Intelligence -- Pieter Camps,,,Internal Audit -- Bradly Vancamp,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+7/21/15 14:04,New Payment Platform -- Kumar Venkataramiah,Internal Audit -- Bradly Vancamp,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,,New Payment Platform -- Kumar Venkataramiah,,Containers -- Red Hat (External),,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+7/21/15 15:45,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Manager,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+7/21/15 15:47,Containers -- Red Hat (External),Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Application Service Delivery,System Administration Team,Operations,TechDay
+7/21/15 15:55,Containers -- Red Hat (External),Open Stack -- Michael Solberg (Red Hat),Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Containers -- Red Hat (External),,,,,,Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+7/21/15 17:09,Combinatorial Testing -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+7/21/15 18:26,Innovation on Data Centers -- David Nalley (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+7/21/15 23:34,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,FIN Service Delivery,FIN Service Delivery,Operations,TechDay
+7/21/15 23:47,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+7/22/15 11:27,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Combinatorial Testing -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+7/22/15 15:33,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Open Stack -- Michael Solberg (Red Hat),Internal Audit -- Bradly Vancamp,Distributed Ledgers -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+7/22/15 15:34,Open Stack -- Michael Solberg (Red Hat),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+7/22/15 15:34,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+7/22/15 15:35,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Internal Audit -- Bradly Vancamp,Containers -- Red Hat (External),My Standards (Webex) -- Nicolas Ernotte,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+7/22/15 15:35,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+7/22/15 15:36,Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),L1 Manager,Strategic Architecture,Strategic Architecture,IT,TechDay
+7/22/15 15:37,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Combinatorial Testing -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Core,IT,TechDay
+7/22/15 15:37,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Open Stack -- Michael Solberg (Red Hat),,,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),,Staff,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+7/22/15 15:37,Innovation on Data Centers -- David Nalley (External),Containers -- Red Hat (External),Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,Messaging Development,IT,TechDay
+7/22/15 15:40,Open Stack -- Michael Solberg (Red Hat),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),New Payment Platform -- Kumar Venkataramiah,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+7/22/15 15:47,New Payment Platform -- Kumar Venkataramiah,Distributed Ledgers -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,Business Intelligence -- Pieter Camps,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+7/22/15 15:48,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Open Stack -- Michael Solberg (Red Hat),Business Intelligence -- Pieter Camps,Combinatorial Testing -- Jerry Kickenson,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Manager,DA & FIN Delivery,DA Programme Office,IT,TechDay
+7/22/15 15:53,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,COTS Baselines,IT,TechDay
+7/22/15 15:54,Innovation on Data Centers -- David Nalley (External),New Payment Platform -- Kumar Venkataramiah,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Block Chain -- Deepak Janardhanan,Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+7/22/15 16:00,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Application Service Delivery,Management Systems,Operations,TechDay
+7/22/15 16:00,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,Containers -- Red Hat (External),Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Identity Services & HSM,IT,TechDay
+7/22/15 16:03,Block Chain -- Deepak Janardhanan,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Block Chain -- Deepak Janardhanan,,,,,,Staff,Application Service Delivery,Business Applications,Operations,TechDay
+7/22/15 16:04,External Threat Intelligence --Byron Thatcher,New Payment Platform -- Kumar Venkataramiah,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Distributed Ledgers -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+7/22/15 16:06,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Combinatorial Testing -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+7/22/15 16:07,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+7/22/15 16:12,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Business Intelligence -- Pieter Camps,Internal Audit -- Bradly Vancamp,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Enterprise Operations,Daily Operations,Operations,TechDay
+7/22/15 16:27,Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+7/22/15 16:28,My Standards (Webex) -- Nicolas Ernotte,Combinatorial Testing -- Jerry Kickenson,Business Intelligence -- Pieter Camps,External Threat Intelligence --Byron Thatcher,My Standards (Webex) -- Nicolas Ernotte,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+7/22/15 16:39,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Containers -- Red Hat (External),Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+7/22/15 17:10,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Open Stack -- Michael Solberg (Red Hat),Business Intelligence -- Pieter Camps,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Strategic Architecture,Technology Roadmap,IT,TechDay
+7/22/15 17:12,Security Incident Analysis & Response -- Eric Bartel & Satya P.,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,New Payment Platform -- Kumar Venkataramiah,External Threat Intelligence --Byron Thatcher,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+7/22/15 17:22,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,New Payment Platform -- Kumar Venkataramiah,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+7/22/15 17:39,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+7/22/15 19:29,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Business Intelligence -- Pieter Camps,Innovation on Data Centers -- David Nalley (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+7/22/15 20:03,Combinatorial Testing -- Jerry Kickenson,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Business Intelligence -- Pieter Camps,Combinatorial Testing -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+7/22/15 20:25,Innovation on Data Centers -- David Nalley (External),Combinatorial Testing -- Jerry Kickenson,Containers -- Red Hat (External),Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+7/22/15 20:32,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,New Payment Platform -- Kumar Venkataramiah,Business Intelligence -- Pieter Camps,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+7/22/15 21:59,Distributed Ledgers -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,Business Intelligence -- Pieter Camps,Block Chain -- Deepak Janardhanan,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,Messaging Projects,IT,TechDay
+7/22/15 22:29,Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Open Stack -- Michael Solberg (Red Hat),Combinatorial Testing -- Jerry Kickenson,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+7/22/15 23:15,Innovation on Data Centers -- David Nalley (External),My Standards (Webex) -- Nicolas Ernotte,Business Intelligence -- Pieter Camps,Open Stack -- Michael Solberg (Red Hat),Innovation on Data Centers -- David Nalley (External),Innovation on Data Centers -- David Nalley (External),,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Manager,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+7/22/15 23:19,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Distributed Ledgers -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,External Threat Intelligence --Byron Thatcher,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+7/22/15 23:31,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Combinatorial Testing -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+7/22/15 23:33,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Containers -- Red Hat (External),External Threat Intelligence --Byron Thatcher,Innovation on Data Centers -- David Nalley (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+7/22/15 23:33,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Security Incident Analysis & Response -- Eric Bartel & Satya P.,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+7/22/15 23:58,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,External Threat Intelligence --Byron Thatcher,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+7/23/15 4:21,Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Manager,DA & FIN Delivery,FIN System Integration,IT,TechDay
+7/23/15 15:52,Containers -- Red Hat (External),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Containers -- Red Hat (External),New Payment Platform -- Kumar Venkataramiah,Containers -- Red Hat (External),,,,,,Staff,Technology Management,Operational Support Systems,IT,TechDay
+7/23/15 15:54,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,External Threat Intelligence --Byron Thatcher,New Payment Platform -- Kumar Venkataramiah,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),,Contractor,Technology Management,Operational Support Systems,IT,TechDay
+7/23/15 16:20,Distributed Ledgers -- Jerry Kickenson,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Block Chain -- Deepak Janardhanan,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Distributed Ledgers -- Jerry Kickenson,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,,,Innovation on Data Centers -- David Nalley (External),Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),Manager,DA & FIN Delivery,FIN System Development,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),New Payment Platform -- Kumar Venkataramiah,,,Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Manager,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,My Standards (Webex) -- Nicolas Ernotte,Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),,,,Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Enterprise Operations,System Administrators,Operations,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Innovation on Data Centers -- David Nalley (External),Staff,Enterprise Operations,Application Testbed Management,Operations,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,,,,Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,Business Intelligence -- Pieter Camps,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Internal Audit -- Bradly Vancamp,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,My Standards (Webex) -- Nicolas Ernotte,New Payment Platform -- Kumar Venkataramiah,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,My Standards (Webex) -- Nicolas Ernotte,Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,My Standards (Webex) -- Nicolas Ernotte,Distributed Ledgers -- Jerry Kickenson,,,My Standards (Webex) -- Nicolas Ernotte,Contractor,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,,Innovation on Data Centers -- David Nalley (External),Manager,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,Distributed Ledgers -- Jerry Kickenson,,,,Staff,NSD and DCIM,Network Operations US,Operations,TechDay
+,,,,,,,Distributed Ledgers -- Jerry Kickenson,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,Innovation on Data Centers -- David Nalley (External),Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Distributed Ledgers -- Jerry Kickenson,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,Block Chain -- Deepak Janardhanan,,,,Manager,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,New Payment Platform -- Kumar Venkataramiah,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Staff,Enterprise Application Solutions,Business Intelligence Systems,IT,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,My Standards (Webex) -- Nicolas Ernotte,Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,My Standards (Webex) -- Nicolas Ernotte,Block Chain -- Deepak Janardhanan,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,My Standards (Webex) -- Nicolas Ernotte,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Block Chain -- Deepak Janardhanan,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Manager,"Operations Strategy, Programs & Services",Regression Testing,Operations,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,Business Intelligence -- Pieter Camps,External Threat Intelligence --Byron Thatcher,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Business Intelligence -- Pieter Camps,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,Combinatorial Testing -- Jerry Kickenson,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,External Threat Intelligence --Byron Thatcher,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,Block Chain -- Deepak Janardhanan,Open Stack -- Michael Solberg (Red Hat),Containers -- Red Hat (External),Security Incident Analysis & Response -- Eric Bartel & Satya P.,Manager,Security Operations,Security Service Delivery,Operations,TechDay
+,,,,,,Innovation on Data Centers -- David Nalley (External),Distributed Ledgers -- Jerry Kickenson,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Innovation on Data Centers -- David Nalley (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Block Chain -- Deepak Janardhanan,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Manager,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,External Threat Intelligence --Byron Thatcher,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,New Payment Platform -- Kumar Venkataramiah,Staff,Enterprise Application Solutions,"Infrastructure, Architecture & Analysis",IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Block Chain -- Deepak Janardhanan,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,CISO,Security Risk Management,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Messaging and Application Delivery,Messaging,Marketing,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Technology Management,COTS Problem Management,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,New Payment Platform -- Kumar Venkataramiah,Manager,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Manager,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Block Chain -- Deepak Janardhanan,Manager,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Distributed Ledgers -- Jerry Kickenson,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,External Threat Intelligence --Byron Thatcher,Staff,CISO,Security Risk Management,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Manager,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,New Payment Platform -- Kumar Venkataramiah,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,External Threat Intelligence --Byron Thatcher,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Distributed Ledgers -- Jerry Kickenson,L1 Manager,Messaging Solutions,Messaging Solutions,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,External Threat Intelligence --Byron Thatcher,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Block Chain -- Deepak Janardhanan,Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Manager,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Technology Management,Infrastructure & Architecture,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Manager,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Block Chain -- Deepak Janardhanan,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Enterprise Operations,System Design,Operations,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,Program Management,Assurance Planning & Communications,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,Distributed Ledgers -- Jerry Kickenson,Contractor,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,Block Chain -- Deepak Janardhanan,L1 Manager,PMO,PMO,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Enterprise Application Solutions,Standards Technology ,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,New Payment Platform -- Kumar Venkataramiah,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,External Threat Intelligence --Byron Thatcher,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Security Infrastructure Development,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Internal Audit -- Bradly Vancamp,,,,,New Payment Platform -- Kumar Venkataramiah,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Manager,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,External Threat Intelligence --Byron Thatcher,Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,Block Chain -- Deepak Janardhanan,Staff,FIN Service Delivery,FIN Service Delivery,Operations,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,External Threat Intelligence --Byron Thatcher,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,Internal Audit -- Bradly Vancamp,,,,,External Threat Intelligence --Byron Thatcher,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,L1 Manager,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Block Chain -- Deepak Janardhanan,Manager,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,External Threat Intelligence --Byron Thatcher,Staff,Application Service Delivery,Management Systems,Operations,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Identity Services & HSM,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Application Service Delivery,Business Applications,Operations,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,External Threat Intelligence --Byron Thatcher,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,Enterprise Operations,Daily Operations,Operations,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,External Threat Intelligence --Byron Thatcher,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,External Threat Intelligence --Byron Thatcher,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Manager,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,External Threat Intelligence --Byron Thatcher,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,External Threat Intelligence --Byron Thatcher,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Block Chain -- Deepak Janardhanan,Manager,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Contractor,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,Block Chain -- Deepak Janardhanan,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Manager,DA & FIN Delivery,FIN System Development,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,,Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,,,,,New Payment Platform -- Kumar Venkataramiah,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,,,,,,,Manager,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Enterprise Operations,System Administrators,Operations,TechDay
+,,,,,,,,,,,Staff,Enterprise Operations,Application Testbed Management,Operations,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,,,,,New Payment Platform -- Kumar Venkataramiah,Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Contractor,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Manager,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,NSD and DCIM,Network Operations US,Operations,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Manager,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,,,,,,New Payment Platform -- Kumar Venkataramiah,Staff,Enterprise Application Solutions,Business Intelligence Systems,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,External Threat Intelligence --Byron Thatcher,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Manager,"Operations Strategy, Programs & Services",Regression Testing,Operations,TechDay
+,,,,,,,,,,External Threat Intelligence --Byron Thatcher,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,External Threat Intelligence --Byron Thatcher,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,External Threat Intelligence --Byron Thatcher,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,,,,,Block Chain -- Deepak Janardhanan,Manager,Security Operations,Security Service Delivery,Operations,TechDay
+,,,,,,,,,,Distributed Ledgers -- Jerry Kickenson,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Internal Audit -- Bradly Vancamp,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Manager,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,Internal Audit -- Bradly Vancamp,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Enterprise Application Solutions,"Infrastructure, Architecture & Analysis",IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,CISO,Security Risk Management,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Messaging and Application Delivery,Messaging,Marketing,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Technology Management,COTS Problem Management,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Manager,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Manager,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,CISO,Security Risk Management,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Manager,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,L1 Manager,Messaging Solutions,Messaging Solutions,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Open Stack -- Michael Solberg (Red Hat),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Manager,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,Infrastructure & Architecture,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Manager,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Staff,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Internal Audit -- Bradly Vancamp,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Enterprise Operations,System Design,Operations,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,Program Management,Assurance Planning & Communications,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Contractor,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,Combinatorial Testing -- Jerry Kickenson,L1 Manager,PMO,PMO,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Enterprise Application Solutions,Standards Technology ,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Security Infrastructure Development,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Internal Audit -- Bradly Vancamp,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Internal Audit -- Bradly Vancamp,,,,,,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Manager,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,FIN Service Delivery,FIN Service Delivery,Operations,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,Internal Audit -- Bradly Vancamp,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,L1 Manager,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Manager,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Application Service Delivery,Management Systems,Operations,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Identity Services & HSM,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Application Service Delivery,Business Applications,Operations,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,Enterprise Operations,Daily Operations,Operations,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,Open Stack -- Michael Solberg (Red Hat),Manager,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Combinatorial Testing -- Jerry Kickenson,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Manager,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Open Stack -- Michael Solberg (Red Hat),Contractor,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,,,,,,Manager,DA & FIN Delivery,FIN System Development,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,,,,,,Combinatorial Testing -- Jerry Kickenson,Manager,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,,,,,,,Manager,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Enterprise Operations,System Administrators,Operations,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Enterprise Operations,Application Testbed Management,Operations,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,,,,,,Internal Audit -- Bradly Vancamp,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,,,,,Contractor,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,,,,,,,Manager,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,,Staff,NSD and DCIM,Network Operations US,Operations,TechDay
+,,,,,,,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,,,,,Manager,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Enterprise Application Solutions,Business Intelligence Systems,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Combinatorial Testing -- Jerry Kickenson,Manager,"Operations Strategy, Programs & Services",Regression Testing,Operations,TechDay
+,,,,,,,,,,Combinatorial Testing -- Jerry Kickenson,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Combinatorial Testing -- Jerry Kickenson,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Combinatorial Testing -- Jerry Kickenson,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,,,,,Open Stack -- Michael Solberg (Red Hat),Manager,Security Operations,Security Service Delivery,Operations,TechDay
+,,,,,,,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Manager,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Containers -- Red Hat (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Containers -- Red Hat (External),Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Enterprise Application Solutions,"Infrastructure, Architecture & Analysis",IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,CISO,Security Risk Management,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Messaging and Application Delivery,Messaging,Marketing,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Technology Management,COTS Problem Management,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Containers -- Red Hat (External),Manager,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Manager,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Containers -- Red Hat (External),Manager,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,CISO,Security Risk Management,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Manager,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,L1 Manager,Messaging Solutions,Messaging Solutions,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Containers -- Red Hat (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Containers -- Red Hat (External),Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Containers -- Red Hat (External),Manager,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Technology Management,Infrastructure & Architecture,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,SP - BS,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,,Manager,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Staff,Messaging Solutions,Messaging Security & Infrastruc.Projects,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Enterprise Operations,System Design,Operations,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Containers -- Red Hat (External),Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,Program Management,Assurance Planning & Communications,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,L1 Manager,PMO,PMO,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,DA & FIN Delivery,Centre of Expertise,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,,Staff,Enterprise Application Solutions,Standards Technology ,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Strategic Architecture,Architecture Definition,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Messaging Solutions,PKI Infrastructure,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Security Infrastructure Development,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Internal Audit -- Bradly Vancamp,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Manager,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,Containers -- Red Hat (External),Manager,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Containers -- Red Hat (External),Staff,Application Service Delivery,System Administration Team,Operations,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,FIN Service Delivery,FIN Service Delivery,Operations,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,Containers -- Red Hat (External),Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Open Stack -- Michael Solberg (Red Hat),,,,,,Staff,Technology Management,Configuration Management,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,Internal Audit -- Bradly Vancamp,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,L1 Manager,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Containers -- Red Hat (External),Staff,Enterprise Operations,EM SA & ATM US,Operations,TechDay
+,,,,,Containers -- Red Hat (External),,,,,Containers -- Red Hat (External),Manager,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Containers -- Red Hat (External),Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Application Service Delivery,Management Systems,Operations,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Messaging Solutions,Identity Services & HSM,IT,TechDay
+,,,,,Security Incident Analysis & Response -- Eric Bartel & Satya P.,,,,,,Staff,Application Service Delivery,Business Applications,Operations,TechDay
+,,,,,New Payment Platform -- Kumar Venkataramiah,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Messaging Solutions,SWIFTNet Link,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,,Staff,Enterprise Operations,Daily Operations,Operations,TechDay
+,,,,,Business Intelligence -- Pieter Camps,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,,Staff,Strategic Architecture,Requirements & Methodology Engineering,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,Containers -- Red Hat (External),Manager,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,Block Chain -- Deepak Janardhanan,,,,,,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,Technology Management,COTS Baselines,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Technology Management,Product Assurance & Certification,IT,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,Containers -- Red Hat (External),Manager,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,,Staff,HR Management and CI,Talent Acquisition,Human Resources,TechDay
+,,,,,External Threat Intelligence --Byron Thatcher,,,,,Containers -- Red Hat (External),Manager,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,My Standards (Webex) -- Nicolas Ernotte,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,DA & FIN Delivery,RP - FIN Bridge,IT,TechDay
+,,,,,Distributed Ledgers -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,Containers -- Red Hat (External),,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Innovation on Data Centers -- David Nalley (External),,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,Internal Audit,Americas Audit,Internal Audit,TechDay
+,,,,,Combinatorial Testing -- Jerry Kickenson,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,,,,,,Staff,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Monolithic Architecture to MicroServices -- Hadrian Zbarcea,,,,,Containers -- Red Hat (External),Contractor,Technology Management,Operational Support Systems,IT,TechDay
+,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,,,,,,Staff,CISO,"Security Policies, Intelligence&Response",IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,DA & FIN Delivery,DA Programme Office,IT,TechDay
+,,,,,,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,,,,,,Manager,DA & FIN Delivery,FIN System Development,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Strategic Architecture,Technology Roadmap,IT,TechDay
+,,,,,,,,,,,Manager,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Systems & Apps Mgt Dev/Maint,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Messaging Core,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Tools Dev/Maint,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Enterprise Operations,System Administrators,Operations,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Enterprise Operations,Application Testbed Management,Operations,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Store & Forward,IT,TechDay
+,,,,,,,,,,,Staff,Messaging Solutions,Messaging Projects,IT,TechDay
+,,,,,,,,,,Self Cleaning Intrusion Tolerance -- Jerry Kickenson,Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,,,,,,Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,,,,,Contractor,Strategic Architecture,Strategic Architecture,IT,TechDay
+,,,,,,,,,,,Manager,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,,Staff,NSD and DCIM,Network Operations US,Operations,TechDay
+,,,,,,,,,,,Staff,Product Assurance & Certification,SM/OM Testing & Tools,IT,TechDay
+,,,,,,,,,,,Staff,Technology Management,OSS Foundation & Security Dev/Maint,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Contractor,Messaging Solutions,Messaging Development,IT,TechDay
+,,,,,,,,,,,Manager,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,DA & FIN Delivery,FIN System Integration,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Enterprise Application Solutions,Business Intelligence Systems,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Messaging Solutions,Messaging Integration,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,DA & FIN Delivery,FIN System Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,FIN Service Delivery,FIN Delivery,Operations,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Messaging Solutions,Database Systems,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Manager,"Operations Strategy, Programs & Services",Regression Testing,Operations,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Contractor,Product Assurance & Certification,SWIFTNet & SNL Testing,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Staff,Technology Management,OSS Network Dev/Maint,IT,TechDay
+,,,,,,,,,,Containers -- Red Hat (External),Manager,Security Operations,Security Service Delivery,Operations,TechDay
+,,,,,,,,,,More than Testing.. w/ Docker -- Otmane Benali & Alex Zbarcea,Staff,DA & FIN Delivery,SCP - UNN,IT,TechDay
